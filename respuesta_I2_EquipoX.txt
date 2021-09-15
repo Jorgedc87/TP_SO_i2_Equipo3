@@ -1,0 +1,15 @@
+Integrantes: Olivieri, Nieto, Calderón
+
+a-¿Como actualizo mi repositorio, al estado  que esté el repo que  hice FORK?
+
+
+b-¿Puede ALFA actualizar su FORK al estado del fork de GAMMA?
+
+
+c-¿Puede GAMMA actualizar su FORK al estado del fork de ALFA?
+Se puede actualizar con Fetch y con Merge, pero los archivos iguales no se juntan.
+
+d-¿Los datos que tenia en mi repositorio, editados por mi, se pierden si quiero actualizar el fork?
+Cada uno en su repositorio puede ver su archivo editado, pero pierde la información de los demás repositorios.
+
+e-realizar un listado con los apellidos y nombre de los alumnos, junto con los comando y orden de ejecución de los mismos, que debieron usar para este TP
